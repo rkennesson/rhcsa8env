@@ -27,6 +27,10 @@ systemctl stop packagekit; yum install -y epel-release && yum install -y git bin
 ```
 ##### Also, install the Virtualbox extension pack below
 - [Virtual Box Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+- download the `vbox-extpack` file
+- double-click to open and follow the on-screen prompt
+- scroll through and except the license
+- enter your password
 
 ## Debian
 _NOTE - If it's been awhile since you've run apt update, do that first. Reboot if the kernel was updated._
